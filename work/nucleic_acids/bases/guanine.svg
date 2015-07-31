@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0  290  245">
+<g transform="translate(  77,  43)">
+<defs>
+  <path id="Atom-C" transform="scale(0.030,-0.030)" d="M535 482c-8 37 -31 131 -156 131c-118 0 -189 -96 -189 -257c0 -159 68 -253 184 -253c93 0 152 53 161 146h146c-9 -167 -130 -272 -311 -272c-203 0 -330 147 -330 381c0 236 128 383 334 383c170 0 291 -95 304 -259h-143z" />
+  <path id="Atom-O" transform="scale(0.030,-0.030)" d="M40 359c0 222 138 382 350 382c211 0 352 -155 352 -387c0 -209 -132 -377 -351 -377c-214 0 -351 160 -351 382zM391 613c-121 0 -201 -101 -201 -254s80 -254 201 -254c120 0 201 101 201 250c0 158 -78 258 -201 258z" />
+  <path id="Atom-N" transform="scale(0.030,-0.030)" d="M523 0l-293 504v-504h-150v729h154l289 -496v496h150v-729h-150z" />  <path id="Atom-H" transform="scale(0.030,-0.030)" d="M519 331h-289v-331h-150v729h150v-273h288v273h151v-729h-150v331z" />
+  <path id="Atom-2" transform="scale(0.0210,-0.0210)" d="M515 499c0 -212 -243 -247 -303 -374h300v-125h-482c7 131 45 193 164 276c157 110 181 142 181 220c0 71 -38 114 -100 114c-64 0 -101 -46 -101 -125v-23h-134c-1 11 -1 19 -1 25c0 150 86 237 233 237c149 0 243 -88 243 -225z" />
+</defs>
+<use xlink:href="#Atom-C" x="40.90" y="68.82"/>
+<use xlink:href="#Atom-O" x="39.99" y="23.83"/>
+<use xlink:href="#Atom-N" x="2.05" y="90.80"/><use xlink:href="#Atom-H" x="-20.42" y="90.80"/>
+<use xlink:href="#Atom-C" x="79.87" y="91.32"/>
+<use xlink:href="#Atom-C" x="1.93" y="136.32"/>
+<use xlink:href="#Atom-C" x="79.87" y="136.32"/>
+<use xlink:href="#Atom-N" x="122.79" y="76.90"/>
+<use xlink:href="#Atom-N" x="41.02" y="158.30"/>
+<use xlink:href="#Atom-N" x="-36.93" y="158.30"/><use xlink:href="#Atom-H" x="-71.07" y="158.30"/><use xlink:href="#Atom-2" x="-48.60" y="165.74"/>
+<use xlink:href="#Atom-N" x="122.79" y="149.71"/><use xlink:href="#Atom-H" x="100.32" y="149.71"/>
+<use xlink:href="#Atom-C" x="149.12" y="113.83"/><use xlink:href="#Atom-H" x="169.55" y="113.83"/>
+<line x1="53.00" y1="41.00" x2="53.00" y2="27.00" style="stroke:black; stroke-width:3px;" />
+<line x1="48.00" y1="41.00" x2="48.00" y2="27.00" style="stroke:black; stroke-width:3px;" />
+<line x1="26.00" y1="71.00" x2="40.00" y2="63.00" style="stroke:black; stroke-width:3px;" />
+<line x1="79.00" y1="73.00" x2="65.00" y2="65.00" style="stroke:black; stroke-width:3px;" />
+<line x1="12.00" y1="109.00" x2="12.00" y2="94.00" style="stroke:black; stroke-width:3px;" />
+<line x1="90.00" y1="95.00" x2="90.00" y2="109.00" style="stroke:black; stroke-width:3px;" />
+<line x1="94.00" y1="109.00" x2="94.00" y2="95.00" style="stroke:black; stroke-width:3px;" />
+<line x1="122.00" y1="69.00" x2="104.00" y2="75.00" style="stroke:black; stroke-width:3px;" />
+<line x1="41.00" y1="141.00" x2="26.00" y2="133.00" style="stroke:black; stroke-width:3px;" />
+<line x1="26.00" y1="126.00" x2="41.00" y2="134.00" style="stroke:black; stroke-width:3px;" />
+<line x1="-12.00" y1="138.00" x2="1.00" y2="130.00" style="stroke:black; stroke-width:3px;" />
+<line x1="79.00" y1="130.00" x2="65.00" y2="138.00" style="stroke:black; stroke-width:3px;" />
+<line x1="122.00" y1="135.00" x2="104.00" y2="129.00" style="stroke:black; stroke-width:3px;" />
+<line x1="149.00" y1="88.00" x2="143.00" y2="80.00" style="stroke:black; stroke-width:3px;" />
+<line x1="137.00" y1="80.00" x2="149.00" y2="96.00" style="stroke:black; stroke-width:3px;" />
+<line x1="143.00" y1="123.00" x2="149.00" y2="115.00" style="stroke:black; stroke-width:3px;" />
+</g>
+</svg>
