@@ -1,6 +1,5 @@
 # inkscape gallery
 
-Small pieces of inkscape .svg files.
 ---
 
 ## Components
