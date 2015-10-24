@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="436.41071"
+   height="476.06326"
+   viewBox="0 0 618.65047 674.65736"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Untitled.svg">
+  <metadata
+     id="metadata261">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs259">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4274">
+      <stop
+         style="stop-color:#e00000;stop-opacity:1;"
+         offset="0"
+         id="stop4276" />
+      <stop
+         style="stop-color:#e00000;stop-opacity:0;"
+         offset="1"
+         id="stop4278" />
+    </linearGradient>
+    <clipPath
+       id="clip1">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path11"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path24"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path37"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip4">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path50"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path63"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path76"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path89"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip8">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path102"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path115"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip10">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path128"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip11">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path141"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip12">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path154"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip13">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path167"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip14">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path180"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip15">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path193"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip16">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path206"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip17">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path219"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip18">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path232"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clip19">
+      <path
+         d="m 0,0 0,715 912,0 0,-715 z"
+         id="path245"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="linearGradient4280"
+       x1="282.52945"
+       y1="231.06"
+       x2="472.79056"
+       y2="231.06"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="linearGradient4282"
+       x1="436.67944"
+       y1="246.185"
+       x2="566.89844"
+       y2="246.185"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="linearGradient4284"
+       x1="379.68945"
+       y1="497.36499"
+       x2="565.09058"
+       y2="497.36499"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4274"
+       id="linearGradient4286"
+       x1="280.72107"
+       y1="484.495"
+       x2="415.28055"
+       y2="484.495"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1809"
+     inkscape:window-height="1010"
+     id="namedview257"
+     showgrid="false"
+     fit-margin-top="20"
+     fit-margin-left="30"
+     fit-margin-right="20"
+     fit-margin-bottom="10"
+     inkscape:zoom="1.3248825"
+     inkscape:cx="247.96875"
+     inkscape:cy="233.34867"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4" />
+  <g
+     style="stroke:#00b9b8;stroke-width:2.83517551;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:2.83517551, 8.50552653;stroke-dashoffset:0"
+     clip-path="url(#clip1)"
+     id="g13"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g15"
+       style="fill:none;stroke:#00b9b8;stroke-width:2.83517551;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:2.83517551, 8.50552653;stroke-dashoffset:0">
+      <path
+         d="m 262.36,271.14 c 2.59,86.83 69.26,158.23 155.71,166.74 86.45,8.52 165.77,-48.5 185.25,-133.16"
+         id="path17"
+         inkscape:connector-curvature="0"
+         style="stroke:#00b9b8;stroke-width:2.83517551;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:2.83517551, 8.50552653;stroke-dashoffset:0" />
+      <title
+         id="title19">Arc c</title>
+      <desc
+         id="desc21">Arc c: CircularArc[C, D, E]</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0"
+     clip-path="url(#clip2)"
+     id="g26"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g28"
+       style="fill:none;stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0">
+      <path
+         d="M 564.24,380.58 C 576.31,274.22 527.26,170.17 437.53,111.79"
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="stroke:#e4a911;stroke-width:1.70110536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0" />
+      <title
+         id="title32"
+         style="stroke:url(#linearGradient4282)">Arc d</title>
+      <desc
+         id="desc34"
+         style="stroke:url(#linearGradient4282)">Arc d: CircularArc[F, G, H]</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0"
+     clip-path="url(#clip3)"
+     id="g39"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g41"
+       style="fill:none;stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0">
+      <path
+         d="m 283.38,348.71 c -12.28,108.21 38.7,213.85 131.05,271.57"
+         id="path43"
+         inkscape:connector-curvature="0"
+         style="stroke:#e4a911;stroke-width:1.70110536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0" />
+      <title
+         id="title45"
+         style="stroke:url(#linearGradient4286)">Arc e</title>
+      <desc
+         id="desc47"
+         style="stroke:url(#linearGradient4286)">Arc e: CircularArc[G, F, I]</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0"
+     clip-path="url(#clip4)"
+     id="g52"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g54"
+       style="fill:none;stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0">
+      <path
+         d="M 283.38,348.71 C 295.65,240.5 369,148.97 471.94,113.41"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="stroke:#e4a911;stroke-width:1.70110536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0" />
+      <title
+         id="title58"
+         style="stroke:url(#linearGradient4280)">Arc e'</title>
+      <desc
+         id="desc60"
+         style="stroke:url(#linearGradient4280)">Arc e': e mirrored at a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0"
+     clip-path="url(#clip5)"
+     id="g65"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g67"
+       style="fill:none;stroke:#e4a911;stroke-width:1.70110536;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0">
+      <path
+         d="M 564.24,380.58 C 552.17,486.94 481.06,577.36 380.54,614.15"
+         id="path69"
+         inkscape:connector-curvature="0"
+         style="stroke:#e4a911;stroke-width:1.70110536;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.80442122, 6.80442122;stroke-dashoffset:0" />
+      <title
+         id="title71"
+         style="stroke:url(#linearGradient4284)">Arc d'</title>
+      <desc
+         id="desc73"
+         style="stroke:url(#linearGradient4284)">Arc d': d mirrored at a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip6)"
+     id="g78"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g80"
+       style="fill:#006400;fill-opacity:0.10196001;fill-rule:evenodd;stroke:none">
+      <path
+         d="m 423.81,364.65 -2.39,21.07 21.07,2.4 2.4,-21.08 -21.08,-2.39"
+         id="path82"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title84">Angle Î±</title>
+      <desc
+         id="desc86">Angle Î±: Angle between b, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1.41758776;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip7)"
+     id="g91"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g93"
+       style="fill:none;stroke:#006400;stroke-width:1.41758776;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         d="m 423.81,364.65 -2.39,21.07 21.07,2.4 2.4,-21.08 -21.08,-2.39"
+         id="path95"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1.41758776;stroke-miterlimit:4;stroke-dasharray:none" />
+      <title
+         id="title97">Angle Î±</title>
+      <desc
+         id="desc99">Angle Î±: Angle between b, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#e00000;stroke-width:7.08054924;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip8)"
+     id="g104"
+     transform="matrix(0.60062619,0,0,0.60062619,42.527633,135.65662)">
+    <g
+       id="g106"
+       style="fill:none;stroke:#e00000;stroke-width:7.08054924;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         d="M -5,316 917,420.6"
+         id="path108"
+         inkscape:connector-curvature="0"
+         style="stroke:#e00000;stroke-width:7.08054924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <title
+         id="title110">Line a</title>
+      <desc
+         id="desc112">Line a: Line through A, B</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke:#47eda5;stroke-width:3.20582318;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip9)"
+     id="g117"
+     transform="matrix(0.88438299,0,0,0.88438299,-64.498357,28.243758)">
+    <g
+       id="g119"
+       style="fill:none;stroke:#47eda5;stroke-width:3.20582318;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+      <path
+         d="M 383.49,720 465.75,-5"
+         id="path121"
+         inkscape:connector-curvature="0"
+         style="stroke:#47eda5;stroke-width:3.20582318;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <title
+         id="title123">Line b</title>
+      <desc
+         id="desc125">Line b: Line through J, K</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip10)"
+     id="g130"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g132"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <path
+         d="m 438,266 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path134"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title136">Point C</title>
+      <desc
+         id="desc138">C = (5.51, 0.22)</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="fill:#00aad4;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip11)"
+     id="g143"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g145"
+       style="fill:#00aad4;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <path
+         d="m 438,266 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path147"
+         inkscape:connector-curvature="0"
+         style="fill:#00aad4;stroke-width:1" />
+      <title
+         id="title149">Point C</title>
+      <desc
+         id="desc151">C = (5.51, 0.22)</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip12)"
+     id="g156"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g158"
+       style="fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <path
+         d="m 286.38,348.71 c 0,1.66 -1.35,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.65 1.34,-3 3,-3 1.65,0 3,1.35 3,3 z"
+         id="path160"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title162">Point F</title>
+      <desc
+         id="desc164">Point F: Intersection point of c, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip13)"
+     id="g169"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g171"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <path
+         d="m 286.38,348.71 c 0,1.66 -1.35,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.65 1.34,-3 3,-3 1.65,0 3,1.35 3,3 z"
+         id="path173"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1" />
+      <title
+         id="title175">Point F</title>
+      <desc
+         id="desc177">Point F: Intersection point of c, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip14)"
+     id="g182"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g184"
+       style="fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <path
+         d="m 567.24,380.58 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path186"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title188">Point G</title>
+      <desc
+         id="desc190">Point G: Intersection point of c, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip15)"
+     id="g195"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g197"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <path
+         d="m 567.24,380.58 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path199"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1" />
+      <title
+         id="title201">Point G</title>
+      <desc
+         id="desc203">Point G: Intersection point of c, a</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip16)"
+     id="g208"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g210"
+       style="fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <path
+         d="m 454.4,121.41 c 0,1.66 -1.34,3 -3,3 -1.65,0 -3,-1.34 -3,-3 0,-1.65 1.35,-3 3,-3 1.66,0 3,1.35 3,3 z"
+         id="path212"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title214">Point J</title>
+      <desc
+         id="desc216">Point J: Intersection point of e', d</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip17)"
+     id="g221"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g223"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <path
+         d="m 454.4,121.41 c 0,1.66 -1.34,3 -3,3 -1.65,0 -3,-1.34 -3,-3 0,-1.65 1.35,-3 3,-3 1.66,0 3,1.35 3,3 z"
+         id="path225"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1" />
+      <title
+         id="title227">Point J</title>
+      <desc
+         id="desc229">Point J: Intersection point of e', d</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip18)"
+     id="g234"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g236"
+       style="fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none">
+      <path
+         d="m 399.21,607.88 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path238"
+         inkscape:connector-curvature="0" />
+      <title
+         id="title240">Point K</title>
+      <desc
+         id="desc242">Point K: Intersection point of e, d'</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <g
+     style="stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0"
+     clip-path="url(#clip19)"
+     id="g247"
+     transform="translate(-114.12664,-8.5100384)">
+    <g
+       id="g249"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1">
+      <path
+         d="m 399.21,607.88 c 0,1.66 -1.34,3 -3,3 -1.66,0 -3,-1.34 -3,-3 0,-1.66 1.34,-3 3,-3 1.66,0 3,1.34 3,3 z"
+         id="path251"
+         inkscape:connector-curvature="0"
+         style="stroke-width:1" />
+      <title
+         id="title253">Point K</title>
+      <desc
+         id="desc255">Point K: Intersection point of e, d'</desc>
+    </g>
+    <!-- drawing style -->
+  </g>
+  <!-- default stroke -->
+  <text
+     xml:space="preserve"
+     style="font-size:56.70351028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="328.84192"
+     y="274.39908"
+     id="text4288"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4290"
+       x="328.84192"
+       y="274.39908"
+       style="font-size:31.18693161px;fill:#800000">P</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:56.70351028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00aad4;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="139.23045"
+     y="370.08902"
+     id="text4288-6"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4290-4"
+       x="139.23045"
+       y="370.08902"
+       style="font-size:31.1869297px;fill:#00aad4">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:56.70351028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00aad4;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="455.94232"
+     y="405.3981"
+     id="text4288-9"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4290-8"
+       x="455.94232"
+       y="405.3981"
+       style="font-size:31.1869297px;fill:#00aad4">B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:56.70351028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="299.18173"
+     y="111.15569"
+     id="text4288-6-9"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4290-4-1"
+       x="299.18173"
+       y="111.15569"
+       style="font-size:31.1869297px;fill:#ffcc00">C</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:56.70351028px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffcc00;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="244.61311"
+     y="617.25262"
+     id="text4288-6-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4290-4-9"
+       x="244.61311"
+       y="617.25262"
+       style="font-size:31.1869297px;fill:#ffcc00">D</tspan></text>
+</svg>
+<!-- bounding box -->
+
